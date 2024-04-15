@@ -1,6 +1,6 @@
 MOVIE RECOMMENDATION MODEL:
 
-This repository contains a movie recommendation model built using classification techniques.
+This repository contains a movie recommendation model built using cosine-similarity
 The goal of this project is to provide personalized movie recommendations based on user preferences and movie features.
 
 FEATURES:
